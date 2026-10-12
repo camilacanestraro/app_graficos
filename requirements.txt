@@ -1,0 +1,5 @@
+requirements
+
+dash
+pandas
+plotly
